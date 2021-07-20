@@ -154,7 +154,7 @@ export default class BTThuKinh extends Component {
                 </div>
               </div>
             </div>
-            <div className="p-10 bg-blue-300 shadow-xl mt-10 grid grid-cols-5 gap-5 rounded">
+            <div className="p-6 bg-blue-300 shadow-xl mt-10 grid grid-cols-5 gap-5 rounded-2xl">
               {this.renderButtonGlasses()}
             </div>
           </div>

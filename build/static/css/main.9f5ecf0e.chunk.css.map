@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/SCSS/index.scss"],"names":[],"mappings":"AAAA,SACI,yEAA0E","file":"main.9f5ecf0e.chunk.css","sourcesContent":[".wrapper {\r\n    background: url(../assets/img/background.jpg) top center / cover no-repeat;\r\n}"]}
